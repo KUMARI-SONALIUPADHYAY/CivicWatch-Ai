@@ -1,0 +1,8 @@
+{
+  "name": "CivicWatch AI: Smart Road Safety Platform",
+  "description": "A comprehensive civic issue reporting platform using Gemini AI to analyze road hazards, potholes, and infrastructure issues from photos, providing automated categorization and impact analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
